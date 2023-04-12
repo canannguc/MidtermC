@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: 21080423, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+[^1]: 21080423, [Github Repo](https://github.com/canannguc/Midtermc.git)
 
 # Important Information About Midterm
 
