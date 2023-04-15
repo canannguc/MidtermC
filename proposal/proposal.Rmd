@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Collage Major and Employment  "
 author: 
-  - Last Name, First Name[^1]
+  - Güç, Canan [^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
