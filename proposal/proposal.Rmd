@@ -1,5 +1,5 @@
 ---
-title: "Collage Major and Employment  "
+title: "Collage Major and Employment"
 author: 
   - Güç, Canan [^1]
 bibliography: ../bibliography/biblio.bib
@@ -25,14 +25,16 @@ urlcolor: blue
 fontsize: 12pt
 biblio-style: apalike
 ---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
 ```
 
 <!-- ======================================================================= -->
+
 <!-- ============================== FOOTNOTES ============================== -->
+
 <!-- ======================================================================= -->
-[^1]: 21080423, [Github Repo](https://github.com/canannguc/Midtermc.git)
 
 # Important Information About Midterm
 
@@ -45,25 +47,30 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 \colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
-
-In this section, mention the purpose and importance of your work in a few paragraphs.
-
-
+Social scientists have long been interested in college major selection and its relationship to labor-market outcomes. Beyond human welfare, major choice is critical for a variety of reasons. Because major choices affect the skill composition of the workforce, knowing how major choices are affected by changes in demand for abilities is critical for studying the dynamics of the broader economy (Patnaik 2020). This study looks at college majors and their relationship to labor market results. The data is from the American Community Survey 2010--2012 Public Use Microdata Series, which was released by the US Census Bureau. Observed choices can be consistent with many different combinations of expectations and preferences, but this statistical data includes factors such as gender, employment status, working hours, and college degrees required for each position. The aim of this article is to look into several topics that remain with the data from the dataset and are supported by the papers to be referenced. The main topics to be examined are which majors have the most graduates and what factors may be driving these preferences. Examine patterns in employment by major and the proportion of people with and without degrees acquiring in each business line and  whether unemployment has an impact on department decisions and gender distribution analyses in each department.
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+This literature review explores the important decision that college students make when choosing a major and the implications it has on their future job opportunities, the labor market, and society as a whole. Major choice affects the skill composition of the workforce, making an understanding of how major choices are affected by changes in skill demand important to research on the dynamics in the overall economy. Observed choices can be consistent with many different combinations of expectations and preferences . Moreover, strong assumptions about the structure of expectations can bias inferences about decision rules. For these reasons, a more recent literature uses subjective expectations data, rather than choice data alone, to understand decision-making under uncertainty in the context of schooling choices. The choices of college majors may be shaped by a range of factors including employment and earnings by college major, earning uncertainty,labor market returns, trends and recent patterns, family background, peers and aptitude (Patnaik, 2020). While the data we have allows us to compare the employment status in the various departments, the article linked shows that this cannot be the only factor. Our data also shows that there are hiring employees in the relevant business lines without a university degree requirement, but the fact that this number is lower than that of those with college degrees makes us question the worth of a university major degree. Today's universities, however, are required to prepare graduates with the knowledge, skills, and ethical responsibility to meet the future workforce needs of society and to participate fully in the new global economy. These profound changes, in turn, have shifted higher education worldwide from once a public good to now a private benefit, whereby colleges and universities have begun to operate as a corporate industry with predominant economic goals and market-oriented values, which has reduced higher education to a transactional process rather than maintaining its transformative potential. Today's labor market requires highly skilled personnel at all levels to deal with rapid industrialization in rapidly changing environments. To meet current societal needs, higher education institutions must redefine and reinvent college curriculum, pedagogy, and assessment policies to ensure that all students have the desired attributes and competencies to contribute to the global economy and engage effectively in democracy. (Y. Chan, 2016). Even if the federal government estimates of student loan debt surpassing one trillion dollars are combined with the diminishing employment prospects of college graduates, there has been widespread interest in providing more information to consumers about the labor market outcomes of college (Ruder 2014). Related to the observed gender distribution, many papers in this area have employed the estimates from these choice models to understand gender differences in college major choice. They find that most of the differences in college major choice by gender can be attributed to differences in "tastes" and that even though enjoying coursework and gaining parental approval are the most important determinants of major choice for both genders, the two genders differ in various other preferences. (Patnaik 2020). In particular, Turner and Bowen (1999) find that differences in pre-collegiate preparation only partly explain gender gaps in major choices. The main part of the gap is explained by the differences in preferences, expectations, and gender-specific effects of the college experience (Bartolj, 2012).
 
-
-
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
-
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
 
 \newpage
 # References {#references}
 <div id="refs"></div>
+
+Patnaik,Arpita, ''Collage Majors'' Nber Working Paper Series, 2020
+{https://www.nber.org/papers/w27645}
+
+Ruder,Alex ''The Influence of Labor Market Outcomes Data on Major Choice: Evidence from a Survey Experiment'', 2014 
+{https://files.eric.ed.gov/fulltext/ED565471.pdf}
+
+Chan Y. ''Understanding the Purpose of Higher Education: An Analysis of the Economic and Social Benefits for Completing a College Degree'' 2016
+{https://scholar.harvard.edu/sites/scholar.harvard.edu/files/roychan/files/chan_r._y._2016._understanding_the_purpose_aim_function_of_higher_education._jeppa_65_1-40.pdf}
+
+Bartolja, Tjasa ''College major choice and ability: Why is general ability not enough?'' 2012
+{https://www.sciencedirect.com/science/article/abs/pii/S0272775712000878}
+
+
+
 
